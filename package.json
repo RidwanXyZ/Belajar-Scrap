@@ -1,0 +1,26 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "Saya masih pelajar yang ingin belajar scrapping!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidwanXyZ/Belajar-Scrap.git"
+  },
+  "keywords": [
+    "scrape"
+  ],
+  "author": "RidwanXyZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidwanXyZ/Belajar-Scrap/issues"
+  },
+  "homepage": "https://github.com/RidwanXyZ/Belajar-Scrap#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
